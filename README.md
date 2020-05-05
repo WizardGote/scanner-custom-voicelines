@@ -10,3 +10,6 @@ I grant premission to use this plugin for free solely for the purpose it was mad
 
 In order for the sounds to work, you need to download this addon to your server and to your own computer: https://steamcommunity.com/sharedfiles/filedetails/?id=2078687121
 After installation, if the sounds don't work try to restart the game and try again.
+
+Preview video:
+https://www.youtube.com/watch?v=QQ22fWfGUXc
